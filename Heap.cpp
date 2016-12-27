@@ -152,7 +152,7 @@ void heap_sort_2(struct heap *heap){
 		}
 	}
 	heap->eleman_sayisi = temp;
-}*/
+}
 
 int sirali_mi(struct heap *heap){
 	int sayac = 0;
